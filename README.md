@@ -1,4 +1,4 @@
-[![PyPI version](https://img.shields.io/pypi/v/contextbase-py.svg)](https://pypi.org/project/contextbase-py/)
+[![contextbase-py version](https://img.shields.io/pypi/v/contextbase-py.svg)](https://pypi.org/project/contextbase-py/)
 
 # ContextBase Python SDK
 
