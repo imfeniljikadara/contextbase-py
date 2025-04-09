@@ -1,3 +1,5 @@
+[![PyPI version](https://img.shields.io/pypi/v/contextbase-py.svg)](https://pypi.org/project/contextbase-py/)
+
 # ContextBase Python SDK
 
 A Python SDK for interacting with the ContextBase MCP API, simple key-value memory storage service with authentication and search capabilities.
