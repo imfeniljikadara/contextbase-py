@@ -2,7 +2,7 @@
 
 # ContextBase Python SDK
 
-A Python SDK for interacting with the ContextBase MCP API, simple key-value memory storage service with authentication and search capabilities.
+A Python SDK for interacting with the ContextBase MCP API, simple key-value memory storage service with authentication and search capabilities. 
 
 ## Installation
 
